@@ -4,3 +4,5 @@ This is the git repo for the segmentation and overlap exclusion code for "Stage-
 
 This code was first written by Vanessa Dao, and then further assisted by Todd Fallesen, of Crick Advaned Light Microscopy STP at The Francis Crick Institute, London, UK.
 
+pip install napari-segmentation-overlap-filter
+
