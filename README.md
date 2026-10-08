@@ -20,7 +20,9 @@ Change line 64, PixelSizes, to a list of pixel sizes that are appropriate for th
 ## Combine segmentations
 
 To install the functions for this code, you can simply use pip, calling 'pip install napari-segmentation-overlap-filter'. The functions used are also provided in this repo as functions.py.
+
 The conda environment used is provided as parseg_env_no_builds.yml
 
+This code is provided as a jupyter notebook.  Once the conda environent is installed for it, with the functions installed through pip or directly, the jupyter notebook can be run. 
 
 
